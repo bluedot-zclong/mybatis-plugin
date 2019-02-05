@@ -6,9 +6,8 @@ import org.mybatis.generator.internal.types.JavaTypeResolverDefaultImpl;
 import java.sql.Types;
 
 /**
- * JavaTypeResolverDefault
- *
- * @author LongShu 2017/05/13
+ * @author zclong
+ * @since 2019/2/3
  */
 public class JavaTypeResolverDefault extends JavaTypeResolverDefaultImpl {
 

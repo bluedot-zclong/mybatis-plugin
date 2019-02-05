@@ -19,9 +19,8 @@ import org.mybatis.generator.internal.util.StringUtility;
 
 
 /**
- * MybatisCommentGenerator
- *
- * @author LongShu 2017/03/09
+ * @author zclong
+ * @since 2019/2/3
  */
 public class MybatisCommentGenerator implements CommentGenerator {
     private Date now = new Date();

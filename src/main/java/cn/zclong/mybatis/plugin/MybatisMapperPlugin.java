@@ -19,9 +19,8 @@ import java.util.Properties;
 import java.util.Set;
 
 /**
- * MyMapperPlugin
- *
- * @author LongShu 2017/03/09
+ * @author zclong
+ * @since 2019/2/3
  */
 public class MybatisMapperPlugin extends PluginAdapter {
 
